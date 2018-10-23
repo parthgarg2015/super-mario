@@ -36,7 +36,7 @@
  - time,life,bullet,coins and coordinates of mario displayed
  - controls of the game displayed
  #Score
- - time score
+ - time score//
  - life score
  - coin score
  - enemy killing score
