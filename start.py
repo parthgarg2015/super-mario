@@ -3,6 +3,7 @@
 import board
 import os
 import numpy as np
+import random
 
 #to print in a good way
 np.set_printoptions(linewidth=1000,threshold=np.nan)
